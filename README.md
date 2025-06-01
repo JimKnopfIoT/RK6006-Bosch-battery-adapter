@@ -1,4 +1,4 @@
-# RK6006-Bosch-battery-adapter
+# RK6006 Bosch Battery adapter
 Enclosure and adapter for Bosch GBA and Bosch ebike batteries.
 
 I made an enclosure for an DPS5005 Mini PSU with an adapter for Bosch-Hometools Batteries (PBA type Batteries) last year.
