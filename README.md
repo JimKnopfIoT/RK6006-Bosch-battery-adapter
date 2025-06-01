@@ -18,11 +18,11 @@ I added a simply sketch of the wiring i used.
 ## View
 <p align="center">
 <img src="ISO.png" width="250"> 
+<img src="36V-ebike-adapter.jpg" width="250"> 
 <img src="Skizze.png" width="250"> 
 </p>
 <p align="center">
 <img src="PSU-battery-adapter.jpg" width="250"> 
-<img src="36V-ebike-adapter.jpg" width="250"> 
 <img src="apart.jpg" width="250"> 
 <img src="bottom-adapter.jpg" width="250"> 
 </p>
