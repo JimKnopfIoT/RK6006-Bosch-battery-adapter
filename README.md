@@ -58,3 +58,6 @@ https://de.aliexpress.com/item/4000973563250.html
 
 Fan (25x25x10 24V)
 https://www.ebay.de/itm/126749041075
+
+Li-Ion Battery 3,7V 2000mAh
+https://de.aliexpress.com/item/32302482355.html
